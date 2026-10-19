@@ -1,0 +1,148 @@
+{
+  "faqs": [
+    {
+      "id": "what-is",
+      "question": "What is Malachi Desk?",
+      "keywords": ["what is", "malachi desk", "about", "platform", "product"],
+      "answer": "Malachi Desk is an AI powered help desk platform for businesses. You embed a smart chatbot on your own website, and it answers common customer questions automatically, at any hour. Your team only steps in when a conversation truly needs a human."
+    },
+    {
+      "id": "how-it-works",
+      "question": "How does Malachi Desk work?",
+      "keywords": ["how does it work", "how it works", "process", "steps", "get started"],
+      "answer": "It works in four steps. First, connect your knowledge base, such as your FAQs, pricing and service pages. Second, customise the chatbot name, colours and welcome message. Third, embed one line of code on your site. Fourth, watch it handle queries while you review everything from your dashboard."
+    },
+    {
+      "id": "pricing",
+      "question": "How much does Malachi Desk cost?",
+      "keywords": ["price", "pricing", "cost", "how much", "plans", "kes"],
+      "answer": "There are three plans. Starter is free and includes 100 conversations per month. Growth costs KES 4,500 per month and includes 2,000 conversations. Enterprise offers custom pricing with unlimited conversations. Full details are on our Pricing page."
+    },
+    {
+      "id": "starter-plan",
+      "question": "What is included in the Starter plan?",
+      "keywords": ["starter", "free plan", "free tier"],
+      "answer": "The Starter plan is free and includes 100 conversations per month, one chatbot widget, a basic knowledge base, English and Swahili replies, and community support. It is the best way to test Malachi Desk on a live website."
+    },
+    {
+      "id": "growth-plan",
+      "question": "What is included in the Growth plan?",
+      "keywords": ["growth", "growth plan", "4500"],
+      "answer": "The Growth plan costs KES 4,500 per month and includes 2,000 conversations per month, ticket escalation to a human agent, conversation history, custom widget colours, the full analytics dashboard, WhatsApp integration, and priority email support."
+    },
+    {
+      "id": "enterprise-plan",
+      "question": "What is included in the Enterprise plan?",
+      "keywords": ["enterprise", "unlimited", "custom pricing"],
+      "answer": "The Enterprise plan offers custom pricing with unlimited conversations, multiple widgets, advanced analytics, dedicated support, and custom integrations. Talk to our team on WhatsApp and we will tailor a plan for your organisation."
+    },
+    {
+      "id": "free-trial",
+      "question": "Is there a free trial?",
+      "keywords": ["free trial", "trial", "try free", "test"],
+      "answer": "Yes. You can start on the free Starter plan today with 100 conversations per month, no credit card required. When you are ready, upgrade to Growth or Enterprise from your dashboard."
+    },
+    {
+      "id": "languages",
+      "question": "Which languages does Malachi Desk support?",
+      "keywords": ["language", "languages", "swahili", "kiswahili", "english", "multilingual"],
+      "answer": "Malachi Desk replies in English and Swahili. You add your knowledge base once, and the chatbot answers customers in the language they write in, which makes it ideal for businesses serving Kenya and East Africa."
+    },
+    {
+      "id": "embed",
+      "question": "How do I embed the chatbot on my website?",
+      "keywords": ["embed", "install", "add to website", "script", "code", "integrate website"],
+      "answer": "Embedding takes minutes. From your dashboard, copy the one line script tag in the Embed Code section and paste it before the closing body tag of your website. The widget appears at the bottom right of every page. No developer is required for standard websites."
+    },
+    {
+      "id": "knowledge-base",
+      "question": "How do I add my business information?",
+      "keywords": ["knowledge base", "add information", "train", "faq entries", "content"],
+      "answer": "Open the Knowledge Base editor in your dashboard and add question and answer entries about your products, prices, opening hours and policies. You can add, edit and delete entries at any time, and the chatbot starts using your updates right away."
+    },
+    {
+      "id": "escalation",
+      "question": "What happens when the chatbot cannot answer?",
+      "keywords": ["human", "escalate", "escalation", "agent", "cannot answer", "handoff", "ticket"],
+      "answer": "When the chatbot cannot answer confidently, it creates a ticket and offers the customer a human handoff. The full conversation appears in your Ticket Inbox, where your team can reply directly. The customer never has to repeat their question."
+    },
+    {
+      "id": "whatsapp",
+      "question": "Does Malachi Desk work with WhatsApp?",
+      "keywords": ["whatsapp", "whats app"],
+      "answer": "Yes. Malachi Desk includes WhatsApp integration, so customers can continue a conversation on WhatsApp and your team can follow up there. You can also reach our own team any time on WhatsApp at +254 112 272 061."
+    },
+    {
+      "id": "analytics",
+      "question": "What analytics does Malachi Desk provide?",
+      "keywords": ["analytics", "dashboard", "reports", "statistics", "insights"],
+      "answer": "Your dashboard shows total conversations, resolution rate, top questions, and unanswered questions that need new knowledge base entries. You also get a 30 day conversation volume chart, top query categories, and a resolution versus escalation breakdown."
+    },
+    {
+      "id": "customise",
+      "question": "Can I customise the chatbot appearance?",
+      "keywords": ["customise", "customize", "color", "colour", "branding", "name", "avatar"],
+      "answer": "Yes. You can change the chatbot name, primary colour, welcome message and avatar initial from the Widget Customiser in your dashboard. A live preview shows exactly how the widget will look on your site before you publish."
+    },
+    {
+      "id": "privacy",
+      "question": "How does Malachi Desk handle data privacy?",
+      "keywords": ["privacy", "data protection", "gdpr", "security", "safe", "data"],
+      "answer": "We take privacy seriously. Malachi Desk is built to comply with the Kenya Data Protection Act 2019 and GDPR aligned practices. Conversation data belongs to your business, we never sell it, and you can request export or deletion at any time."
+    },
+    {
+      "id": "data-ownership",
+      "question": "Who owns my conversation data?",
+      "keywords": ["own data", "ownership", "export", "delete data"],
+      "answer": "Your business owns its conversation data and knowledge base content. You can export your data from the dashboard, and if you close your account we delete your data on request in line with our Privacy Policy."
+    },
+    {
+      "id": "cancel",
+      "question": "How do I cancel my subscription?",
+      "keywords": ["cancel", "cancellation", "unsubscribe", "stop"],
+      "answer": "You can cancel at any time from your dashboard billing settings. Your chatbot keeps working until the end of the current billing period, and there are no cancellation fees. If you prefer, message us on WhatsApp and we will help you close the account."
+    },
+    {
+      "id": "billing",
+      "question": "How does billing work?",
+      "keywords": ["billing", "pay", "payment", "invoice", "mpesa", "card"],
+      "answer": "Growth is billed monthly at KES 4,500. We send an invoice each cycle and support common business payment methods in Kenya. Enterprise billing is agreed with our team based on your volume and needs."
+    },
+    {
+      "id": "support",
+      "question": "How do I get support?",
+      "keywords": ["support", "help", "contact", "talk to human", "customer care"],
+      "answer": "You can reach the Malachi Desk team on WhatsApp at +254 112 272 061, through the contact options on this website, or by email from your dashboard. Growth customers get priority email support, and Enterprise customers get a dedicated contact."
+    },
+    {
+      "id": "conversation-limit",
+      "question": "What happens if I exceed my conversation limit?",
+      "keywords": ["limit", "exceed", "over limit", "quota", "cap"],
+      "answer": "If you approach your monthly limit we notify you in the dashboard. On Starter you can upgrade to Growth for 2,000 conversations, and on Enterprise conversations are unlimited, so your customers always get an answer."
+    },
+    {
+      "id": "use-cases",
+      "question": "Which businesses use Malachi Desk?",
+      "keywords": ["who uses", "industries", "sectors", "hotel", "school", "hospital", "sacco", "shop", "ecommerce"],
+      "answer": "Malachi Desk works for e-commerce stores, schools and universities, hospitals and clinics, SACCOs and banks, and hotels and hospitality businesses. In short, it works for any business whose customers ask repeat questions online."
+    },
+    {
+      "id": "availability",
+      "question": "Is Malachi Desk available outside office hours?",
+      "keywords": ["24/7", "hours", "night", "weekend", "always on", "available"],
+      "answer": "Yes. Your Malachi Desk chatbot answers instantly, 24 hours a day, 7 days a week, including nights, weekends and public holidays. Questions that need a person are saved as tickets for your team to handle during working hours."
+    },
+    {
+      "id": "demo",
+      "question": "Can I see a live demo?",
+      "keywords": ["demo", "example", "try it", "live"],
+      "answer": "You are talking to the live demo right now. Ask me about pricing, languages, embedding or privacy and I will answer from the Malachi Desk knowledge base. You can also visit the Demo page for a full page experience with voice input."
+    },
+    {
+      "id": "voice",
+      "question": "Can customers speak to the chatbot?",
+      "keywords": ["voice", "speak", "microphone", "talk"],
+      "answer": "Yes. On the Demo page you can tap the microphone button and ask your question by voice. Voice input only starts when you tap the button, and it never listens on its own."
+    }
+  ]
+}
